@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ConsoleUI": {
+      "commandName": "Project",
+      "commandLineArgs": "generate crud",
+      "workingDirectory": "C:\\orj_nArch\\nArchitecture.Gen-main\\src\\nArchGen\\ConsoleUI\\bin\\Debug\\net6.0\\test11\\src\\test11"
+    }
+  }
+}
